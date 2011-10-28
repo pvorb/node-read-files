@@ -1,19 +1,19 @@
 {
-	"author": "Paul Vorbach <paul@vorb.de> (http://vorb.de)",
-	"name": "read-files",
-	"description": "Asynchronously reads an array of files and returns their contents.",
-	"version": "0.0.0",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/pvorb/node-read-files.git"
-	},
-	"bugs": {
-		"web": "https://github.com/pvorb/node-read-files/issues"
-	},
-	"main": "read-files.js",
-	"engines": {
-		"node": ">=0.4.0"
-	},
-	"dependencies": {
-	}
+  "author": "Paul Vorbach <paul@vorb.de> (http://vorb.de)",
+  "contributors": [ "Jasper Palfree (https://github.com/wellcaffeinated)" ],
+  "name": "read-files",
+  "description": "Asynchronously reads an array of files and returns their contents.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pvorb/node-read-files.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pvorb/node-read-files/issues"
+  },
+  "main": "read-files.js",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "dependencies": {}
 }
